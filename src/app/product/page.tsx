@@ -31,7 +31,7 @@ Shop now and experience the difference with Clean Sweep – where cleanliness me
   
   <div className="mx-2 text-wrap">
     <h1 className="text-red-500 text-4xl font-bold p-2 me-4">Blue Toilet Cleaner:</h1>
-<p className="text-2xl justify-center text-pretty p-3"> 
+<p className="text-xl justify-center text-pretty p-3"> 
 Say goodbye to stubborn stains and odors with our powerful Blue Toilet Cleaner. Formulated to tackle even the toughest grime, our blue solution leaves your toilet bowl sparkling clean and smelling fresh. With its easy-to-use design and fast-acting formula, maintaining a pristine bathroom has never been simpler. </p>
 
   </div>
@@ -44,7 +44,7 @@ Say goodbye to stubborn stains and odors with our powerful Blue Toilet Cleaner. 
   
   <div className="mx-2 text-wrap">
     <h1 className="text-red-500 text-4xl font-bold p-2 me-4 ">Big Toilet Cleaner:</h1>
-<p className="text-2xl justify-center p-3"> 
+<p className="text-xl justify-center p-3"> 
 • Tough stain removal <br />
 • Gentle on surfaces <br />
 • 10x more limescale removal vs. ordinary detergents <br />
