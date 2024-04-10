@@ -24,7 +24,7 @@ Shop now and experience the difference with Clean Sweep – where cleanliness me
 
 <h1 className="text-center text-3xl font-semibold text-red-500 mb-10 "> Our Products</h1>
      <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4">
-  <div className="px-10 object-cover">
+  <div className="mx-auto object-cover">
   <Image className="rounded-lg" src={img1} width={300} height={300} style={{objectFit:"cover"}} alt="" />
    
   </div>
@@ -37,7 +37,7 @@ Say goodbye to stubborn stains and odors with our powerful Blue Toilet Cleaner. 
   </div>
 </div >
      <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-2 my-9">
-  <div className="px-10 object-cover">
+  <div className="mx-auto object-cover">
   <Image className="rounded-lg" src={img2} width={300} height={300} style={{objectFit:"cover"}} alt="" />
    
   </div>
