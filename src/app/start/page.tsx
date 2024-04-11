@@ -27,6 +27,9 @@ Care System</h1>
 <Link href="/product"> 
 <button  className="w- bg-red-800 text-white px-6 py-3 font-xl rounded-md sm:mb-0">View Our Products</button>
 </Link>
+<Link href="/contact"> 
+<button  className="w- bg-red-800 text-white px-6 py-3 mx-9 font-xl rounded-md sm:mb-0">Contact Us</button>
+</Link>
   </div>
 </div >
    <h1 className="text-red-500 text-3xl text-center mt-10 pt-40">How can we help you?</h1>

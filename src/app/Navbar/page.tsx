@@ -39,11 +39,13 @@ export default function Navbar() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0">
+                
                 <Image
                   className="h-15 w-20 rounded-sm "
                   src={logo1} width={500} height={50}
                   alt="Workflow"
                 />
+                
               </div>
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-5">

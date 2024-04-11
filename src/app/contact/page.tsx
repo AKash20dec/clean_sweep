@@ -41,7 +41,7 @@ export default function Home() {
               <div className="ml-4 mb-4">
                 <h3 className="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">Our Address
                 </h3>
-                <p className="text-gray-600 dark:text-slate-400">Indranagar </p>
+                <p className="text-gray-600 dark:text-slate-400">Takrohi, Indira Nagar </p>
                 <p className="text-gray-600 dark:text-slate-400">Lucknow, India</p>
               </div>
             </li>
@@ -76,6 +76,7 @@ export default function Home() {
               </div>
             </li>
           </ul>
+          <h1 className="text-white">Follow us on <button className="bg-red-800 text-white px-6 py-3 font-xl rounded-md sm:mb-0"> <a href="https://www.instagram.com/cleansweepvsc?igsh=cDBiZGtzY2lxOTJy" className="text-white hover:text-gray-900">Instagram</a> </button></h1>
         </div>
         <div className="card h-fit max-w-6xl p-5 md:p-12" id="form">
           <h2 className="mb-4 text-2xl font-bold dark:text-white">Ready to Get Started?</h2>

@@ -15,7 +15,7 @@ export default function Product() {
   
      <p className="text-center text-pretty text-xl ">  your one-stop destination for premium cleaning products and solutions. Whether you're a homeowner, business owner, or cleaning professional, we have everything you need to achieve spotless spaces with ease.
 
-Browse our wide range of cleaning products, including our signature Blue Toilet Cleaner and Floor Cleaner Concentrate, designed to simplify your cleaning routine and deliver outstanding results every time.
+Browse our wide range of cleaning products, including our signature Blue Toilet Cleaner, designed to simplify your cleaning routine and deliver outstanding results every time.
 
 Explore our informative blog for cleaning tips, tricks, and hacks to help you make the most of our products and keep your spaces looking their best.
 
@@ -48,7 +48,7 @@ Say goodbye to stubborn stains and odors with our powerful Blue Toilet Cleaner. 
 • Tough stain removal <br />
 • Gentle on surfaces <br />
 • 10x more limescale removal vs. ordinary detergents <br />
-• Kills 99.9% of germs <br />
+• Formulated to tackle even the toughest grime. <br />
 • Helps fight odour and unpleasant smells </p>
 
   </div>
