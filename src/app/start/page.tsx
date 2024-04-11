@@ -25,7 +25,7 @@ Care System</h1>
 <p className="text-2xl justify-center p-3">Whether you’re cleaning your toilet for the first time, embarking on a regular routine, dealing with limescale or mould, or giving your surroundings a deep clean,<span className="text-red-500 blod"> Clean Sweep </span> has got everything to get your spaces sparkling and keep you and your family safe and well.</p>
 
 <Link href="/product"> 
-<button  className="w- bg-red-800 text-white px-6 py-3 font-xl my-5 rounded-md sm:mb-0">View Our Products</button>
+<button  className="w- bg-red-800 text-white px-6 py-3 mx-9 font-xl my-5 rounded-md sm:mb-0">View Our Products</button>
 </Link>
 <Link href="/contact"> 
 <button  className="w- bg-red-800 text-white px-6 py-3 mx-9 my-5 font-xl rounded-md sm:mb-0">Contact Us</button>
